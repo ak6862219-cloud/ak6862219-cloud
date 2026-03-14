@@ -1,4 +1,4 @@
-# Hi there 👋, I'm ak6862219-cloud
+# Hi I am Adarsh kushwha 👋
 
 ### 🚀 About Me
 i am interested in DSA and machine learning. 
