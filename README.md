@@ -1,4 +1,4 @@
-# Hi I am Adarsh kushwha 👋
+# Hi I am Adarsh kushwaha 👋
 
 ### 🚀 About Me
 i am interested in DSA and machine learning. 
