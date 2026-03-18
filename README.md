@@ -12,7 +12,7 @@ i am interested in DSA and machine learning.
 
 ### 🛠 Tech Stack
 
-* Frontend: HTML, CSS (Basics)
+* Frontend: HTML, CSS, JavaScript
 * Backend: PHP
 * Database: MySQL
 * Tools & Platforms: Git, GitHub
