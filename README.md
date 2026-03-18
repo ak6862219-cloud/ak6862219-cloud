@@ -1,7 +1,7 @@
 # Hi I am Adarsh kushwaha 👋
 
 ### 🚀 About Me
-i am interested in DSA and machine learning. 
+I am interested in DSA and machine learning. 
 
 - 🔭 I’m currently focused on mastering Data Structures & Algorithms (DSA).
 - 🌱 My next big goal is to dive deep into AI/ML.
