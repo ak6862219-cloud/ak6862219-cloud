@@ -14,7 +14,7 @@ I am interested in DSA and machine learning.
 
 * Frontend: HTML, CSS, JavaScript
 * Backend: PHP
-* Database: MySQL
+* Database: MySQL.PostgreSQL
 * Tools & Platforms: Git, GitHub
 
 ---
