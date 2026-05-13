@@ -21,12 +21,9 @@ I am interested in DSA and machine learning.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ak6862219-cloud&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ak6862219-cloud&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ak6862219-cloud&layout=compact&theme=tokyonight)
 ---
-
 ### 🤝 Let's Connect
 [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/adarsh-kushwaha-6ab371369) | [Portfolio](https://https://codolio.com/profile/Adarsh_12345)
