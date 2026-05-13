@@ -19,13 +19,13 @@ I am interested in DSA and machine learning.
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ak6862219-cloud&show_icons=true&theme=tokyonight"
-    alt="GitHub Stats"
-  />
-</p>
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ak862219-cloud&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ak862219-cloud&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ak862219-cloud&layout=compact&theme=tokyonight)
 ---
 
 ### 🤝 Let's Connect
