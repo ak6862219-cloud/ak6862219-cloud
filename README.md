@@ -22,7 +22,7 @@ I am interested in DSA and machine learning.
 ## 📊 GitHub Stats
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ak6862219-cloud&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ak6862219-cloud&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 ### 🤝 Let's Connect
