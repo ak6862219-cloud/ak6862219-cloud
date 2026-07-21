@@ -4,7 +4,7 @@
 I am interested in DSA and machine learning. 
 
 - 🔭 I’m currently focused on mastering Data Structures & Algorithms (DSA).
-- 🌱 My next big goal is to dive deep into AI/ML.
+- 🌱 My big goal is to dive deep into AI/ML.
 - 
 - 📫 How to reach me: adarshkush103@gmail.com
 
