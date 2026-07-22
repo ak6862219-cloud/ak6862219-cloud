@@ -18,6 +18,28 @@ I am interested in DSA and machine learning.
 * Tools & Platforms: Git, GitHub
 
 ---
+## 🚀 Projects
+
+### 🌾 Krishi Mitra
+An AI-powered agriculture platform that helps farmers detect crop diseases using image-based machine learning.
+Provides disease diagnosis, treatment recommendations, and smart agricultural advisory to support farmers.
+
+### 📧 Email Spam Detection
+A machine learning-based system that classifies emails as **Spam** or **Ham** using Natural Language Processing (NLP).
+The project provides an easy-to-use interface for detecting unwanted and potentially harmful emails.
+
+### 🏠 House Price Prediction
+A machine learning project that predicts house prices based on various features such as location, size, and other property attributes.
+The project demonstrates data preprocessing, feature scaling, model training, and price prediction using ML techniques.
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **2× Ideathon Winner**
+- 🏆 **1× Hackathon Winner**
+- 💻 **Participated in Google BigCode Challenge 2026**
+- 🚀 **Participated in Flipkart GRiD 6.0**
 
 ## 📊 GitHub Stats
 
