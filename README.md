@@ -25,7 +25,7 @@ An AI-powered agriculture platform that helps farmers detect crop diseases using
 Provides disease diagnosis, treatment recommendations, and smart agricultural advisory to support farmers.
 
 ### 📧 Email Spam Detection
-A machine learning-based system that classifies emails as **Spam** or **Ham** using Natural Language Processing (NLP).
+A machine learning-based system that classifies emails as **Spam** or **Not spam** using Natural Language Processing (NLP).
 The project provides an easy-to-use interface for detecting unwanted and potentially harmful emails.
 
 ### 🏠 House Price Prediction
@@ -35,11 +35,12 @@ The project demonstrates data preprocessing, feature scaling, model training, an
 ---
 
 ## 🏆 Achievements
-
+    
 - 🥇 **2× Ideathon Winner**
 - 🏆 **1× Hackathon Winner**
 - 💻 **Participated in Google BigCode Challenge 2026**
 - 🚀 **Participated in Flipkart GRiD 6.0**
+-    **5X Hackathon Particpated**
 
 ## 📊 GitHub Stats
 
